@@ -1,6 +1,7 @@
 'use strict';
 
 let total = 0;
+let input;
 
 do {
   let input = prompt('Введите число');
